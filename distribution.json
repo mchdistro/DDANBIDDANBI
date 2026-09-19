@@ -163,6 +163,27 @@
             "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/fabricmods/required/sodium-fabric-0.9.2+mc26.2.jar",
             "MD5": "fa97af208c24e320899c00cd0cff698a"
           }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 215,
+            "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 72,
+            "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/files/servers.dat",
+            "MD5": "8ef5236bfdaee3646753dfaee1b8bdb1",
+            "path": "servers.dat"
+          }
         }
       ]
     }
