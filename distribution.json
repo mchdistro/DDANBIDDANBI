@@ -115,6 +115,16 @@
           ]
         },
         {
+          "id": "kr.shihyeon:blurserveraddress:1.3.0+mc26.1@jar",
+          "name": "BlurServerAddress",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11973,
+            "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/fabricmods/required/blurserveraddress-fabric-1.3.0+mc26.1.jar",
+            "MD5": "212a0c0a07909b73a43eb37b4dd7085f"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.161.0+26.2@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -169,7 +179,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 215,
+            "size": 248,
             "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/files/options.txt",
             "path": "options.txt"
           }
@@ -183,6 +193,94 @@
             "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/files/servers.dat",
             "MD5": "8ef5236bfdaee3646753dfaee1b8bdb1",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "AstraLex_V93.0.zip",
+          "name": "AstraLex_V93.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3184524,
+            "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/files/shaderpacks/AstraLex_V93.0.zip",
+            "MD5": "021c95bd3d217b4a7e45997d5127285b",
+            "path": "shaderpacks/AstraLex_V93.0.zip"
+          }
+        },
+        {
+          "id": "BSL_v10.1.5.zip",
+          "name": "BSL_v10.1.5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1133936,
+            "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/files/shaderpacks/BSL_v10.1.5.zip",
+            "MD5": "f1f6a07f62cf668b17c333d4c80b6f6f",
+            "path": "shaderpacks/BSL_v10.1.5.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.9.3.zip",
+          "name": "ComplementaryReimagined_r5.9.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 553397,
+            "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/files/shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+            "MD5": "54cd249cd1e95a4e19f0ea2cb4369e71",
+            "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.9.3.zip",
+          "name": "ComplementaryUnbound_r5.9.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 553400,
+            "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/files/shaderpacks/ComplementaryUnbound_r5.9.3.zip",
+            "MD5": "e9c0e174f43125d45b192ef684f5d4d4",
+            "path": "shaderpacks/ComplementaryUnbound_r5.9.3.zip"
+          }
+        },
+        {
+          "id": "MakeUp-UltraFast-9.5e.zip",
+          "name": "MakeUp-UltraFast-9.5e.zip",
+          "type": "File",
+          "artifact": {
+            "size": 400417,
+            "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/files/shaderpacks/MakeUp-UltraFast-9.5e.zip",
+            "MD5": "48a4e8a842c72790e00f5442cc519c48",
+            "path": "shaderpacks/MakeUp-UltraFast-9.5e.zip"
+          }
+        },
+        {
+          "id": "Noble v1.9.8 hotfix.zip",
+          "name": "Noble v1.9.8 hotfix.zip",
+          "type": "File",
+          "artifact": {
+            "size": 16809135,
+            "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/files/shaderpacks/Noble%20v1.9.8%20hotfix.zip",
+            "MD5": "3f2966ddddc64b67b541603a2aa1fdfa",
+            "path": "shaderpacks/Noble v1.9.8 hotfix.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v2.02 Lite.zip",
+          "name": "Sildur's Vibrant Shaders v2.02 Lite.zip",
+          "type": "File",
+          "artifact": {
+            "size": 251380,
+            "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v2.02%20Lite.zip",
+            "MD5": "382e2622cadbf25e140cb56fa78acbdb",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v2.02 Lite.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v2.02 Medium.zip",
+          "name": "Sildur's Vibrant Shaders v2.02 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 251385,
+            "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v2.02%20Medium.zip",
+            "MD5": "4309dbe218dc24c86815fb5143b843e7",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v2.02 Medium.zip"
           }
         }
       ]
