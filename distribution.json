@@ -213,9 +213,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 72,
+            "size": 90,
             "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/DDANBIDDANBI-26.2/files/servers.dat",
-            "MD5": "8ef5236bfdaee3646753dfaee1b8bdb1",
+            "MD5": "7f09b0687bc76a57e75000f44826a772",
             "path": "servers.dat"
           }
         },
