@@ -165,16 +165,6 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.1.17@jar",
-          "name": "Plasmo Voice",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 12247451,
-            "url": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/servers/hardcore-26.2/fabricmods/required/plasmovoice-fabric-26.2-2.1.17.jar",
-            "MD5": "91dead85f43a5bf70858bd65ea93e7d2"
-          }
-        },
-        {
           "id": "net.caffeinemc.mods:sodium:0.9.2+mc26.2@jar",
           "name": "Sodium",
           "type": "FabricMod",
