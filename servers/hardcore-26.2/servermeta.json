@@ -2,7 +2,7 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/DDANBIDDANBI/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "DDANBIDDANBI (Minecraft 26.2)",
+    "name": "딴드코어",
     "description": "Minecraft 26.2 (Fabric v0.19.5)",
     "icon": "https://github.com/mchdistro/DDANBIDDANBI/raw/main/server-icon.png",
     "address": "mc.gotiger.dev:20203",
